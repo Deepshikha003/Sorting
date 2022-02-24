@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author Khushi
- *
- */
 module Sorting {
 }
